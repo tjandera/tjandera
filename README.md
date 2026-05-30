@@ -1,5 +1,3 @@
-<!-- Replace USERNAME everywhere below with your GitHub username -->
-
 # Matthew Tjandera
 
 **Information Systems @ Singapore Management University** · Aspiring Software & Data Engineer
@@ -71,9 +69,9 @@ Support instructors and students across SMU's Global Perspectives module.
 
 ### GitHub Stats
 
-<a href="https://github.com/USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+<a href="https://github.com/tjandera">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tjandera&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjandera&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </a>
 
 ---
