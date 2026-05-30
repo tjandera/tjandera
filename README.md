@@ -67,13 +67,4 @@ Support instructors and students across SMU's Global Perspectives module.
 
 ---
 
-### GitHub Stats
-
-<a href="https://github.com/tjandera">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tjandera&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjandera&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</a>
-
----
-
 📫 **Open to Software Engineering & Data Engineering roles.** Reach me at **matthewtjandera@gmail.com** · [matthewtjandera.online](https://matthewtjandera.online)
